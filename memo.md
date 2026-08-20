@@ -1,0 +1,1 @@
+Accorder les droits à setup.sh => chmod +x setup.sh
